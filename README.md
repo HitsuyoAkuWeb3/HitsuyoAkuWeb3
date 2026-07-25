@@ -1,36 +1,40 @@
 # Hitsuyo Aku
 
-**Founder & Sovereign Identity Architect** | *Identity Forensics Lab*  
-🌐 [architect.hitsuyoaku.io](https://architect.hitsuyoaku.io) • 📍 Atlanta, GA
+### Sovereign Identity Architect | Identity Forensics Lab
+
+* Website: https://architect.hitsuyoaku.io
+* Location: Atlanta, GA
 
 ---
 
-### What I Do
+## Executive Summary
 
-Most companies stall because the founder becomes human middleware—stuck manually routing decisions, reviewing every piece of copy, and holding the system together by sheer willpower.
+Most organizations stall because the founder becomes human middleware. They manually route decisions, rewrite copy, and attempt to hold operational complexity together by raw willpower.
 
-I audit businesses, eliminate founder bottlenecks, and build receipt-gated, version-controlled infrastructure that lets organizations operate with speed, clarity, and structural autonomy.
-
----
-
-### Core Practice
-
-- **Identity Forensics Lab:** Forensic operational audits to pinpoint where leadership intent breaks down before it reaches customers, code, or deliverables.
-- **Sovereign Brand OS:** Translating a founder's core positioning and non-negotiables into version-controlled markdown, deterministic agent contracts, and automated workflows.
-- **Organizational Cybernetics:** Installing Stafford Beer's Viable System Model (VSM) into modern AI-driven teams so strategy, ops, and execution stay locked together.
+The Identity Forensics Lab audits business operations, removes founder bottlenecks, and installs version-controlled cybernetic infrastructure.
 
 ---
 
-### How I Operate
+## Core Operational Lanes
 
-1. **Plain English First:** Zero corporate jargon, zero theoretical fluff, zero AI buzzwords. Say what is real.
-2. **Receipts Over Promises:** Work is not complete when a plan is drafted. Work is complete when empirical health gates pass with zero errors.
-3. **Bounded Workflows:** Strict WIP limits ($\text{WIP} \le 3$) to guarantee depth, quality, and execution speed over shallow multitasking.
+| Service Lane | Target Vulnerability | Execution Output |
+| :--- | :--- | :--- |
+| Forensic Audit | Unconscious operational constraints | Complete diagnostic report exposing signal leakage |
+| Sovereign Brand OS | Fragile positioning and identity drift | Version-controlled markdown assets and agent contracts |
+| Cybernetic Infrastructure | Uncontrolled operational complexity | Viable System Model installation with strict WIP limits |
 
 ---
 
-### Direct Channels
+## Sovereign Operating Doctrine
 
-- 🏛️ **Architecture & Booking:** [architect.hitsuyoaku.io](https://architect.hitsuyoaku.io)
-- 🏢 **Practice:** Identity Forensics Lab
-- 🐙 **GitHub:** [@HitsuyoAkuWeb3](https://github.com/HitsuyoAkuWeb3)
+1. Plain English First: Zero corporate jargon, zero theoretical posturing, zero AI buzzwords.
+2. Empirical Proof: Work is complete when system health gates pass with zero errors.
+3. Bounded Capacity: Strict WIP limits (WIP <= 3) to enforce execution depth over shallow multitasking.
+
+---
+
+## Primary Links
+
+* Architecture and Direct Ingestion: https://architect.hitsuyoaku.io
+* Commercial Entity: Identity Forensics Lab
+* Repository Archive: https://github.com/HitsuyoAkuWeb3
