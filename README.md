@@ -71,9 +71,9 @@ We conduct forensic audits of your business operations, codebases, and team work
 
 ### The 3 Core Commercial Offerings
 
-* **The Paid Forensic Audit (7-Day Sprint):** A rigorous diagnostic audit of your operational cybernetics. We produce a Lab Audit Record (LAR) detailing your exact systemic bottlenecks, signal leakage points, and positioning vulnerabilities.
-* **The Sovereign Reconstruction Build (30-Day Installation):** Full deployment of your GitMoney Sovereign AI Office. We encode your brand ethos and operational rules into local markdown files, deterministic agent contracts, and automated health linters.
-* **Sovereign Governance Retainer (Monthly Continuity):** Ongoing System 3/4 oversight. We provide continuous receipt verification, WIP capacity governance, and automated vault health monitoring so your systems run cleanly without founder intervention.
+* **The Paid Forensic Audit:** A rigorous diagnostic audit of your operational cybernetics. We produce a Lab Audit Record (LAR) detailing your exact systemic bottlenecks, signal leakage points, and positioning vulnerabilities before any construction is promised.
+* **The Sovereign Reconstruction Build:** Conditional forward-deployed infrastructure installation executed only when the audit proves the need, installing the exact version-controlled systems and agent contracts required.
+* **Sovereign Governance Retainer:** Ongoing System 3/4 oversight. We provide continuous receipt verification, WIP capacity governance, and automated vault health monitoring so your systems run cleanly without founder intervention.
 
 ---
 
@@ -189,13 +189,13 @@ We engage through three high-leverage commercial structures engineered for immed
 <h3>1. The Audit</h3>
 <p><b>Target Vulnerability:</b> Unconscious operational bottlenecks, hidden signal leakage, and diluted founder positioning.</p>
 <p><b>Deliverable:</b> A comprehensive diagnostic brief identifying exact systemic breakage points across System 1 through System 5.</p>
-<p><b>Model:</b> Fixed-scope 7-day forensic sprint.</p>
+<p><b>Model:</b> Evidence-based diagnostic sprint.</p>
 </td>
 <td width="33%" valign="top">
 <h3>2. Reconstruction</h3>
 <p><b>Target Vulnerability:</b> Fragile manual workflows, unmanaged team friction, and lack of version-controlled business memory.</p>
 <p><b>Deliverable:</b> Complete installation of the Sovereign Brand OS, custom agent contracts, and markdown pipelines.</p>
-<p><b>Model:</b> 30-day forward-deployed build.</p>
+<p><b>Model:</b> Forward-deployed installation.</p>
 </td>
 <td width="33%" valign="top">
 <h3>3. Retainer</h3>
