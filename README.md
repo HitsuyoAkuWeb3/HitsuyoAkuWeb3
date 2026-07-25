@@ -31,33 +31,33 @@ The Identity Forensics Lab solves this single point of failure. We audit organiz
 
 ---
 
-## The GitMoney AI Office Architecture
+## The Viable System Model (VSM) Architecture
 
 The GitMoney AI Office is a 5-system organizational operating system built to decouple business growth from founder exhaustion:
 
 ```text
 +------------------------------------------------------------------------------+
-|                        SYSTEM 5: VOID ARCHITECT                              |
-|           Policy, Identity Kernel, Brand Canon, and Ethos Lock               |
+|                             SYSTEM 5: POLICY                                 |
+|           Ethos Lock, Identity Kernel, Brand Canon, and Governance           |
 +------------------------------------------------------------------------------+
                                        |
 +------------------------------------------------------------------------------+
-|                      SYSTEM 4: CABAN INTELLIGENCE                            |
+|                          SYSTEM 4: INTELLIGENCE                              |
 |        Market Sensing, Competitor Forensics, and Threat Detection            |
 +------------------------------------------------------------------------------+
                                        |
 +------------------------------------------------------------------------------+
-|                     SYSTEM 3: OVERTONE CONTROL                               |
-|        Treasury Allocation, Resource Governance, and Audit Receipts          |
+|                             SYSTEM 3: CONTROL                                |
+|        Resource Allocation, Internal Governance, and Audit Receipts          |
 +------------------------------------------------------------------------------+
                                        |
 +------------------------------------------------------------------------------+
-|                   SYSTEM 2: COORDINATION KINETICS                            |
+|                           SYSTEM 2: COORDINATION                             |
 |       Anti-Oscillation Protocols, Standards, and Ashby WIP Caps (<= 3)       |
 +------------------------------------------------------------------------------+
                                        |
 +------------------------------------------------------------------------------+
-|                       SYSTEM 1: IMIX GENESIS                                 |
+|                            SYSTEM 1: OPERATIONS                              |
 |         Autonomous Execution, Code Generation, and Asset Delivery            |
 +------------------------------------------------------------------------------+
 ```
