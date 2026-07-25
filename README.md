@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="#executive-indictment">Executive Indictment</a> &bull;
+  <a href="#identity-forensics-lab-commercial-overview">Identity Forensics Lab</a> &bull;
   <a href="#the-gitmoney-ai-office-architecture">GitMoney Architecture</a> &bull;
   <a href="#the-viable-system-model-vsm-cybernetic-stack">VSM Cybernetics</a> &bull;
   <a href="#commercial-engagement-lanes">Service Lanes</a> &bull;
@@ -47,8 +48,37 @@ The Identity Forensics Lab solves this single point of failure. We audit organiz
 
 ---
 
+<a id="identity-forensics-lab-commercial-overview"></a>
+## Plain English Commercial Overview: Identity Forensics Lab
+
+The Identity Forensics Lab (IFL) is a specialized diagnostic and system reconstruction practice. We help founders and executive teams eliminate internal operational bottlenecks and build autonomous, receipt-gated business systems.
+
+### The Problem We Solve
+
+As businesses scale, leadership intent gets lost between strategy and daily operations. Founders find themselves trapped in a cycle of constant oversight:
+
+1. **Founder Middleware Bottlenecks:** The founder must personally review, edit, or approve every deliverable, slowing down overall company execution speed.
+2. **Identity Drift:** The company's core market positioning, product ethos, and brand voice dilute as teams expand or delegate tasks to AI.
+3. **Uncontrolled Variety:** Operational complexity outpaces management capacity, leading to missed deadlines, inconsistent quality, and burned-out teams.
+
+### The Commercial Solution
+
+We conduct forensic audits of your business operations, codebases, and team workflows to identify exactly where intent breaks down. Then, we replace fragile manual management with version-controlled, receipt-gated business infrastructure.
+
+```text
+[Observed Business Event] -> [Forensic Signal Audit] -> [Receipt-Gated Diagnosis] -> [System Reconstruction]
+```
+
+### The 3 Core Commercial Offerings
+
+* **The Paid Forensic Audit (7-Day Sprint):** A rigorous diagnostic audit of your operational cybernetics. We produce a Lab Audit Record (LAR) detailing your exact systemic bottlenecks, signal leakage points, and positioning vulnerabilities.
+* **The Sovereign Reconstruction Build (30-Day Installation):** Full deployment of your GitMoney Sovereign AI Office. We encode your brand ethos and operational rules into local markdown files, deterministic agent contracts, and automated health linters.
+* **Sovereign Governance Retainer (Monthly Continuity):** Ongoing System 3/4 oversight. We provide continuous receipt verification, WIP capacity governance, and automated vault health monitoring so your systems run cleanly without founder intervention.
+
+---
+
 <a id="the-gitmoney-ai-office-architecture"></a>
-## The GitMoney AI Office Architecture
+## The 3-Tier GitMoney AI Office Architecture
 
 GitMoney OS is governed business infrastructure engineered to turn AI-assisted work into owned, reviewable, and reusable business evidence. It decouples business growth from human fatigue using a 3-tier sovereign execution loop:
 
