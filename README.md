@@ -40,11 +40,12 @@
 <a id="executive-indictment"></a>
 ## Executive Indictment
 
-Most technology companies and venture-backed startups do not fail from lack of capital or market size. They stall because the founder becomes human middleware.
-
-When leadership functions as a manual routing switch for copy, code, decisions, and operational fire-fighting, the organization hits an inescapable complexity ceiling. Internal drag consumes margin, positioning dilutes, and execution degrades into noise.
-
-The Identity Forensics Lab solves this single point of failure. We audit organizational cybernetics, eliminate founder middleware, and install local-first, version-controlled business infrastructure powered by Stafford Beer's Viable System Model and the GitMoney OS framework.
+> **EXECUTIVE INDICTMENT ON ORGANIZATIONAL CEILINGS**  
+> Most technology companies and venture-backed startups do not fail from lack of capital or market size. They stall because the founder becomes <kbd>human middleware</kbd>.  
+>  
+> When leadership functions as a manual routing switch for copy, code, decisions, and operational fire-fighting, the organization hits an inescapable complexity ceiling. Internal drag consumes margin, positioning dilutes, and execution degrades into noise.  
+>  
+> The Identity Forensics Lab solves this single point of failure. We audit organizational cybernetics, eliminate founder middleware, and install local-first, version-controlled business infrastructure powered by Stafford Beer's <kbd>Viable System Model</kbd> and the <kbd>GitMoney OS</kbd> framework.
 
 ---
 
@@ -57,23 +58,55 @@ The Identity Forensics Lab (IFL) is a specialized diagnostic and system reconstr
 
 As businesses scale, leadership intent gets lost between strategy and daily operations. Founders find themselves trapped in a cycle of constant oversight:
 
-1. **Founder Middleware Bottlenecks:** The founder must personally review, edit, or approve every deliverable, slowing down overall company execution speed.
-2. **Identity Drift:** The company's core market positioning, product ethos, and brand voice dilute as teams expand or delegate tasks to AI.
-3. **Uncontrolled Variety:** Operational complexity outpaces management capacity, leading to missed deadlines, inconsistent quality, and burned-out teams.
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+<h4>1. FOUNDER MIDDLEWARE</h4>
+<p><b>Execution Bottleneck</b></p>
+<p>The founder must personally review, edit, or approve every deliverable, slowing company execution speed to a crawl.</p>
+</td>
+<td width="33%" valign="top">
+<h4>2. IDENTITY DRIFT</h4>
+<p><b>Positioning Erosion</b></p>
+<p>Core market positioning, product ethos, and brand voice dilute as teams expand or delegate tasks to raw AI tools.</p>
+</td>
+<td width="33%" valign="top">
+<h4>3. UNCONTROLLED VARIETY</h4>
+<p><b>Ashby Complexity Drag</b></p>
+<p>Operational complexity outpaces management capacity, causing missed deadlines, inconsistent quality, and team burnout.</p>
+</td>
+</tr>
+</table>
 
 ### The Commercial Solution
 
 We conduct forensic audits of your business operations, codebases, and team workflows to identify exactly where intent breaks down. Then, we replace fragile manual management with version-controlled, receipt-gated business infrastructure.
 
 ```text
-[Observed Business Event] -> [Forensic Signal Audit] -> [Receipt-Gated Diagnosis] -> [System Reconstruction]
+[Observed Event] -> [Forensic Signal Audit] -> [Receipt-Gated Diagnosis] -> [System Reconstruction]
 ```
 
 ### The 3 Core Commercial Offerings
 
-* **The Paid Forensic Audit:** A rigorous diagnostic audit of your operational cybernetics. We produce a Lab Audit Record (LAR) detailing your exact systemic bottlenecks, signal leakage points, and positioning vulnerabilities before any construction is promised.
-* **The Sovereign Reconstruction Build:** Conditional forward-deployed infrastructure installation executed only when the audit proves the need, installing the exact version-controlled systems and agent contracts required.
-* **Sovereign Governance Retainer:** Ongoing System 3/4 oversight. We provide continuous receipt verification, WIP capacity governance, and automated vault health monitoring so your systems run cleanly without founder intervention.
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+<h3>The Paid Audit</h3>
+<p><b>Diagnostic Sprint</b></p>
+<p>A rigorous diagnostic audit of operational cybernetics. Produces a Lab Audit Record (<kbd>LAR</kbd>) detailing exact bottlenecks, signal leakage, and positioning vulnerabilities before construction is promised.</p>
+</td>
+<td width="33%" valign="top">
+<h3>Reconstruction Build</h3>
+<p><b>Forward-Deployed Build</b></p>
+<p>Conditional infrastructure installation executed only when the audit proves the need. Encodes brand ethos into local markdown, agent contracts, and automated health linters.</p>
+</td>
+<td width="33%" valign="top">
+<h3>Governance Retainer</h3>
+<p><b>Monthly Continuity</b></p>
+<p>Ongoing System 3/4 oversight. Provides continuous receipt verification, WIP capacity governance (<kbd>WIP &le; 3</kbd>), and automated vault health monitoring.</p>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -86,18 +119,18 @@ GitMoney OS is governed business infrastructure engineered to turn AI-assisted w
 <tr>
 <td width="33%" valign="top">
 <h4>TIER 1: PRIVATE VAULT</h4>
-<p><b>PKM Second Brain (Obsidian.md)</b></p>
+<p><b>PKM Second Brain (<kbd>Obsidian.md</kbd>)</b></p>
 <p>Local-first markdown private memory. Stores raw capture, private client intelligence, strategy, and personal knowledge offline on disk.</p>
 </td>
 <td width="33%" valign="top">
 <h4>TIER 2: AGENT WORKBENCH</h4>
 <p><b>Agentic Swarm Harnesses</b></p>
-<p>Autonomous agent harnesses (Claude, Codex, Antigravity, Hermes) executing audits, running simulations, and compiling assets.</p>
+<p>Autonomous agent harnesses (<kbd>Claude</kbd>, <kbd>Codex</kbd>, <kbd>Antigravity</kbd>, <kbd>Hermes</kbd>) executing audits, running simulations, and compiling assets.</p>
 </td>
 <td width="33%" valign="top">
 <h4>TIER 3: OFFICIAL RECORD</h4>
 <p><b>Git Team Collaboration</b></p>
-<p>Published to remote GitHub repos (GitMoneyOS) for team execution, client delivery, and open-source framework contribution.</p>
+<p>Published to remote GitHub repos (<kbd>GitMoneyOS</kbd>) for team execution, client delivery, and open-source framework contribution.</p>
 </td>
 </tr>
 </table>
@@ -124,9 +157,9 @@ sequenceDiagram
 ### Core System Thesis
 
 1. **Governed Infrastructure:** GitMoney is not generic AI prompts or simple workflows. It is governed business infrastructure built to convert raw AI outputs into permanent, version-controlled business assets.
-2. **Strict Layer Separation:** Private memory (Obsidian), local agent workbenches (Claude, Codex, Antigravity, Hermes), and official business records (GitHub) remain distinct layers. Data graduates to GitHub only after evidence verification.
+2. **Strict Layer Separation:** Private memory (<kbd>Obsidian</kbd>), local agent workbenches (<kbd>Claude</kbd>, <kbd>Codex</kbd>, <kbd>Antigravity</kbd>, <kbd>Hermes</kbd>), and official business records (<kbd>GitHub</kbd>) remain distinct layers. Data graduates to GitHub only after evidence verification.
 3. **Receipt-Gated Assets:** An AI output is not an asset until it possesses an owner, an approval path, verifiable evidence, a clear reuse path, and a recorded lifecycle.
-4. **Empirical Verification:** Dated receipts, automated linter tests, and acceptance reports outrank theoretical plans when execution choices conflict.
+4. **Empirical Verification:** Dated receipts, automated linter tests (<kbd>./mothership-doctor</kbd>), and acceptance reports outrank theoretical plans when execution choices conflict.
 
 ---
 
@@ -170,7 +203,7 @@ The GitMoney AI Office integrates Stafford Beer's Viable System Model to govern 
 | :--- | :--- | :--- | :--- |
 | **System 5: Policy** | Identity Kernel and Ethos Lock | Governance Directives | Sovereign Rule Audit |
 | **System 4: Intelligence** | Market Sensing and Forensic Audits | Diagnostic Briefs | Signal Leakage Check |
-| **System 3: Control** | Resource Bargaining and Receipts | Audit Receipts (LAR) | <kbd>./mothership-doctor</kbd> |
+| **System 3: Control** | Resource Bargaining and Receipts | Audit Receipts (<kbd>LAR</kbd>) | <kbd>./mothership-doctor</kbd> |
 | **System 2: Coordination** | Anti-Oscillation and Standards | Capacity Limits | <kbd>WIP &le; 3</kbd> |
 | **System 1: Operations** | Primary Execution and Delivery | Production Code | <kbd>git push</kbd> |
 
@@ -208,18 +241,20 @@ We engage through three high-leverage commercial structures engineered for immed
 
 ---
 
+<a id="comparative-value-physics"></a>
 ## Comparative Value Physics
 
 | Metric | Model A: Traditional Founder Middleware | Model B: GitMoney Sovereign AI Office |
 | :--- | :--- | :--- |
-| Operational Bottleneck | Founder handles every decision manually | Systems run via version-controlled contracts |
-| Execution Speed | Linear, gated by human fatigue | Parallel, accelerated by local agent swarms |
-| Memory Persistence | Ephemeral, lost in Slack and email | Durable, stored in git-backed local markdown |
-| Signal Fidelity | High noise, frequent positioning drift | 100% signal clear, verified by automated linters |
-| Capacity Control | Unbounded chaos, chronic burnout | Strict Ashby WIP caps (<kbd>WIP &le; 3</kbd>) |
+| **Operational Bottleneck** | Founder handles every decision manually | Systems run via version-controlled contracts |
+| **Execution Speed** | Linear, gated by human fatigue | Parallel, accelerated by local agent swarms |
+| **Memory Persistence** | Ephemeral, lost in Slack and email | Durable, stored in git-backed local markdown |
+| **Signal Fidelity** | High noise, frequent positioning drift | <kbd>100% Signal Clear</kbd>, verified by linters |
+| **Capacity Control** | Unbounded chaos, chronic burnout | Strict Ashby WIP caps (<kbd>WIP &le; 3</kbd>) |
 
 ---
 
+<a id="sovereign-operating-doctrine"></a>
 ## Sovereign Operating Doctrine
 
 > **SOVEREIGN DIRECTIVE 01: PLAIN ENGLISH FIRST**  
