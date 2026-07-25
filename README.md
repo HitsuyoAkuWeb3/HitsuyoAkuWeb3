@@ -3,15 +3,16 @@
 # HITSUYO AKU
 
 ### FOUNDER AND SOVEREIGN IDENTITY ARCHITECT | IDENTITY FORENSICS LAB
-**The Operating Kernel for the GitMoney AI Office**
+**Operating Kernel for the GitMoney AI Office Ecosystem**
 
-[Request Forensic Audit](https://architect.hitsuyoaku.io) &nbsp;&bull;&nbsp; [Explore Lab Architecture](https://architect.hitsuyoaku.io) &nbsp;&bull;&nbsp; [Read System Doctrine](https://architect.hitsuyoaku.io)
+[Request Forensic Audit](https://architect.hitsuyoaku.io) &nbsp;&bull;&nbsp; [GitMoney OS Source](https://github.com/GitMoneyOS) &nbsp;&bull;&nbsp; [GitMoney Public Framework](https://github.com/GitMoneyOS/gitmoney-public-framework)
 
 ```text
 ================================================================================
 SYSTEM IDENTIFIER : HITSUYO AKU / TEZCATLIPOCA NODE V9.0
 OPERATING ENTITY  : IDENTITY FORENSICS LAB
 INFRASTRUCTURE    : GITMONEY AI OFFICE (LOCAL-FIRST CYBERNETICS)
+PUBLIC REPO ORG   : GITHUB.COM/GITMONEYOS
 LOCATION COORD    : ATLANTA, GA [USA]
 SYSTEM STATUS     : ONLINE // 100% SIGNAL FIDELITY // WIP <= 3
 ================================================================================
@@ -31,9 +32,45 @@ The Identity Forensics Lab solves this single point of failure. We audit organiz
 
 ---
 
-## The Viable System Model (VSM) Architecture
+## The 3-Tier GitMoney AI Office Architecture
 
-The GitMoney AI Office is a 5-system organizational operating system built to decouple business growth from founder exhaustion:
+The GitMoney AI Office decouples business growth from human fatigue using a 3-tier sovereign execution loop:
+
+```text
++------------------------------------------------------------------------------+
+|             TIER 1: PRIVATE BUSINESS VAULT & PKM SECOND BRAIN                |
+|                    Local-First Markdown in Obsidian.md                       |
+|   Stores raw capture, private client intel, strategy, and personal memory    |
++------------------------------------------------------------------------------+
+                                      ^
+                                      |  (Bidirectional Handoff Loop)
+                                      v
++------------------------------------------------------------------------------+
+|                         TIER 2: AGENTIC WORKBENCH                            |
+|       Autonomous Agent Harnesses (Claude, Codex, Antigravity, Hermes)        |
+|    Executes audits, runs simulations, and compiles knowledge into assets     |
++------------------------------------------------------------------------------+
+                                      ^
+                                      |  (Receipt-Gated Promotion)
+                                      v
++------------------------------------------------------------------------------+
+|            TIER 3: OFFICIAL BUSINESS RECORD & TEAM COLLABORATION             |
+|                      Git-Backed Remote Repositories                          |
+|  Publishes verified production code, client deliverables, and open source    |
++------------------------------------------------------------------------------+
+```
+
+### How The 3-Tier Loop Functions
+
+1. **Private Capture (Obsidian.md):** Raw notes, business intelligence, and initial concepts are captured locally in plain text markdown. Data stays 100% local, protected from premature public exposure.
+2. **Agentic Processing (Workbench):** Custom agent harnesses (Claude, Codex, Antigravity, Hermes) connect to local skills and tools to deconstruct problems, run adversarial audits, and generate code.
+3. **Official Publication (GitHub):** Verified, receipt-gated outputs graduate to public GitHub repositories for team execution, client delivery, and open-source contribution.
+
+---
+
+## The Viable System Model (VSM) Cybernetic Stack
+
+The GitMoney AI Office integrates Stafford Beer's Viable System Model to govern all 5 organizational layers:
 
 ```text
 +------------------------------------------------------------------------------+
@@ -105,10 +142,12 @@ We engage through three high-leverage commercial structures engineered for immed
 
 ---
 
-## Direct Action Channels
+## Direct Action Channels and Source Repositories
 
-To initiate an audit or review forward-deployed infrastructure case studies:
+To initiate an audit, inspect source code, or review public framework documentation:
 
 * **Primary Portal:** [architect.hitsuyoaku.io](https://architect.hitsuyoaku.io)
 * **Lab Practice:** Identity Forensics Lab
-* **Repository Network:** [github.com/HitsuyoAkuWeb3](https://github.com/HitsuyoAkuWeb3)
+* **GitMoney OS Organization:** [github.com/GitMoneyOS](https://github.com/GitMoneyOS)
+* **Public Framework Source:** [github.com/GitMoneyOS/gitmoney-public-framework](https://github.com/GitMoneyOS/gitmoney-public-framework)
+* **Personal Repository Archive:** [github.com/HitsuyoAkuWeb3](https://github.com/HitsuyoAkuWeb3)
