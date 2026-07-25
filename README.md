@@ -5,23 +5,38 @@
 ### FOUNDER AND SOVEREIGN IDENTITY ARCHITECT | IDENTITY FORENSICS LAB
 **Operating Kernel for the GitMoney AI Office Ecosystem**
 
-[Request Forensic Audit](https://architect.hitsuyoaku.io) &nbsp;&bull;&nbsp; [GitMoney OS Source](https://github.com/GitMoneyOS) &nbsp;&bull;&nbsp; [GitMoney Public Framework](https://github.com/GitMoneyOS/gitmoney-public-framework)
+<p align="center">
+  <a href="#executive-indictment">Executive Indictment</a> &bull;
+  <a href="#the-3-tier-gitmoney-ai-office-architecture">3-Tier Loop</a> &bull;
+  <a href="#the-viable-system-model-vsm-cybernetic-stack">VSM Cybernetics</a> &bull;
+  <a href="#commercial-engagement-lanes">Service Lanes</a> &bull;
+  <a href="#direct-action-channels-and-source-repositories">Source Repos</a>
+</p>
+
+<p align="center">
+  <a href="https://architect.hitsuyoaku.io"><img src="https://img.shields.io/badge/Request-Forensic_Audit-151515?style=for-the-badge&labelColor=000000" alt="Request Forensic Audit"></a>
+  <a href="https://github.com/GitMoneyOS"><img src="https://img.shields.io/badge/Organization-GitMoneyOS-151515?style=for-the-badge&labelColor=000000" alt="GitMoneyOS Org"></a>
+  <a href="https://github.com/GitMoneyOS/gitmoney-public-framework"><img src="https://img.shields.io/badge/Framework-Public_Source-151515?style=for-the-badge&labelColor=000000" alt="Public Framework Source"></a>
+  <img src="https://img.shields.io/badge/Status-100%25_Signal_Clear-151515?style=for-the-badge&labelColor=000000" alt="Signal Clear">
+  <img src="https://img.shields.io/badge/Capacity-WIP_%E2%89%A4_3-151515?style=for-the-badge&labelColor=000000" alt="WIP Limit">
+</p>
 
 ```text
-================================================================================
-SYSTEM IDENTIFIER : HITSUYO AKU / TEZCATLIPOCA NODE V9.0
-OPERATING ENTITY  : IDENTITY FORENSICS LAB
-INFRASTRUCTURE    : GITMONEY AI OFFICE (LOCAL-FIRST CYBERNETICS)
-PUBLIC REPO ORG   : GITHUB.COM/GITMONEYOS
-LOCATION COORD    : ATLANTA, GA [USA]
-SYSTEM STATUS     : ONLINE // 100% SIGNAL FIDELITY // WIP <= 3
-================================================================================
++------------------------------------------------------------------------------+
+| SYSTEM IDENTIFIER : HITSUYO AKU / TEZCATLIPOCA NODE V9.0                     |
+| OPERATING ENTITY  : IDENTITY FORENSICS LAB                                   |
+| INFRASTRUCTURE    : GITMONEY AI OFFICE (LOCAL-FIRST CYBERNETICS)             |
+| PUBLIC REPO ORG   : GITHUB.COM/GITMONEYOS                                   |
+| LOCATION COORD    : ATLANTA, GA [USA]                                        |
+| SYSTEM STATUS     : ONLINE // 100% SIGNAL FIDELITY // WIP <= 3               |
++------------------------------------------------------------------------------+
 ```
 
 </div>
 
 ---
 
+<a id="executive-indictment"></a>
 ## Executive Indictment
 
 Most technology companies and venture-backed startups do not fail from lack of capital or market size. They stall because the founder becomes human middleware.
@@ -32,35 +47,46 @@ The Identity Forensics Lab solves this single point of failure. We audit organiz
 
 ---
 
+<a id="the-3-tier-gitmoney-ai-office-architecture"></a>
 ## The 3-Tier GitMoney AI Office Architecture
 
 The GitMoney AI Office decouples business growth from human fatigue using a 3-tier sovereign execution loop:
 
-```text
-+------------------------------------------------------------------------------+
-|             TIER 1: PRIVATE BUSINESS VAULT & PKM SECOND BRAIN                |
-|                    Local-First Markdown in Obsidian.md                       |
-|   Stores raw capture, private client intel, strategy, and personal memory    |
-+------------------------------------------------------------------------------+
-                                      ^
-                                      |  (Bidirectional Handoff Loop)
-                                      v
-+------------------------------------------------------------------------------+
-|                         TIER 2: AGENTIC WORKBENCH                            |
-|       Autonomous Agent Harnesses (Claude, Codex, Antigravity, Hermes)        |
-|    Executes audits, runs simulations, and compiles knowledge into assets     |
-+------------------------------------------------------------------------------+
-                                      ^
-                                      |  (Receipt-Gated Promotion)
-                                      v
-+------------------------------------------------------------------------------+
-|            TIER 3: OFFICIAL BUSINESS RECORD & TEAM COLLABORATION             |
-|                      Git-Backed Remote Repositories                          |
-|  Publishes verified production code, client deliverables, and open source    |
-+------------------------------------------------------------------------------+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+<h4>TIER 1: PRIVATE VAULT</h4>
+<p><b>Local PKM Second Brain</b></p>
+<p>Stored in Obsidian.md. Holds raw capture, private client intel, strategy, and personal memory completely offline.</p>
+</td>
+<td width="33%" valign="top">
+<h4>TIER 2: AGENT WORKBENCH</h4>
+<p><b>Autonomous Agent Harnesses</b></p>
+<p>Harnesses (Claude, Codex, Antigravity, Hermes) executing audits, running simulations, and generating code.</p>
+</td>
+<td width="33%" valign="top">
+<h4>TIER 3: OFFICIAL RECORD</h4>
+<p><b>Git Team Collaboration</b></p>
+<p>Published to remote GitHub repos for team execution, client delivery, and open-source contribution.</p>
+</td>
+</tr>
+</table>
+
+### Dynamic Handoff Flow
+
+```mermaid
+sequenceDiagram
+    autonumber
+    participant V as Private Vault (Obsidian.md)
+    participant W as Agentic Workbench (Harnesses)
+    participant G as Official Record (GitHub)
+
+    V->>W: Ingest Raw Notes & Strategic Intent
+    W->>W: Run Adversarial Audit & VSM Linters
+    W->>G: Commit Receipt-Gated Deliverable (Push)
 ```
 
-### How The 3-Tier Loop Functions
+### Execution Loop Mechanics
 
 1. **Private Capture (Obsidian.md):** Raw notes, business intelligence, and initial concepts are captured locally in plain text markdown. Data stays 100% local, protected from premature public exposure.
 2. **Agentic Processing (Workbench):** Custom agent harnesses (Claude, Codex, Antigravity, Hermes) connect to local skills and tools to deconstruct problems, run adversarial audits, and generate code.
@@ -68,6 +94,7 @@ The GitMoney AI Office decouples business growth from human fatigue using a 3-ti
 
 ---
 
+<a id="the-viable-system-model-vsm-cybernetic-stack"></a>
 ## The Viable System Model (VSM) Cybernetic Stack
 
 The GitMoney AI Office integrates Stafford Beer's Viable System Model to govern all 5 organizational layers:
@@ -99,26 +126,49 @@ The GitMoney AI Office integrates Stafford Beer's Viable System Model to govern 
 +------------------------------------------------------------------------------+
 ```
 
+<details>
+<summary><b>INSPECT DEEP VSM LAYER SPECIFICATIONS (CLICK TO EXPAND)</b></summary>
+<br>
+
+| VSM Layer | Primary Responsibility | Primary Output | Gate Trigger |
+| :--- | :--- | :--- | :--- |
+| **System 5: Policy** | Identity Kernel and Ethos Lock | Governance Directives | Sovereign Rule Audit |
+| **System 4: Intelligence** | Market Sensing and Forensic Audits | Diagnostic Briefs | Signal Leakage Check |
+| **System 3: Control** | Resource Bargaining and Receipts | Audit Receipts (LAR) | <kbd>./mothership-doctor</kbd> |
+| **System 2: Coordination** | Anti-Oscillation and Standards | Capacity Limits | <kbd>WIP &le; 3</kbd> |
+| **System 1: Operations** | Primary Execution and Delivery | Production Code | <kbd>git push</kbd> |
+
+</details>
+
 ---
 
+<a id="commercial-engagement-lanes"></a>
 ## Commercial Engagement Lanes
 
 We engage through three high-leverage commercial structures engineered for immediate operational transformation:
 
-### 1. The Identity Forensics Audit
-* Target Vulnerability: Unconscious operational bottlenecks, hidden signal leakage, and diluted founder positioning.
-* Deliverable: A comprehensive diagnostic brief identifying exact systemic breakage points across System 1 through System 5.
-* Engagement Model: Fixed-scope 7-day forensic sprint.
-
-### 2. The Sovereign Reconstruction Build
-* Target Vulnerability: Fragile manual workflows, unmanaged team friction, and lack of version-controlled business memory.
-* Deliverable: Complete installation of the Sovereign Brand OS, custom agent contracts, and deterministic markdown automation pipelines.
-* Engagement Model: 30-day forward-deployed infrastructure installation.
-
-### 3. Sovereign Governance Retainer
-* Target Vulnerability: Operational drift, uncontrolled variety, and loss of strategic focus over time.
-* Deliverable: Ongoing System 3/4 oversight, continuous receipt verification, and automated vault health maintenance.
-* Engagement Model: Monthly institutional governance retainer.
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+<h3>1. The Audit</h3>
+<p><b>Target Vulnerability:</b> Unconscious operational bottlenecks, hidden signal leakage, and diluted founder positioning.</p>
+<p><b>Deliverable:</b> A comprehensive diagnostic brief identifying exact systemic breakage points across System 1 through System 5.</p>
+<p><b>Model:</b> Fixed-scope 7-day forensic sprint.</p>
+</td>
+<td width="33%" valign="top">
+<h3>2. Reconstruction</h3>
+<p><b>Target Vulnerability:</b> Fragile manual workflows, unmanaged team friction, and lack of version-controlled business memory.</p>
+<p><b>Deliverable:</b> Complete installation of the Sovereign Brand OS, custom agent contracts, and markdown pipelines.</p>
+<p><b>Model:</b> 30-day forward-deployed build.</p>
+</td>
+<td width="33%" valign="top">
+<h3>3. Retainer</h3>
+<p><b>Target Vulnerability:</b> Operational drift, uncontrolled variety, and loss of strategic focus over time.</p>
+<p><b>Deliverable:</b> Ongoing System 3/4 oversight, continuous receipt verification, and automated vault health maintenance.</p>
+<p><b>Model:</b> Monthly governance retainer.</p>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -130,18 +180,24 @@ We engage through three high-leverage commercial structures engineered for immed
 | Execution Speed | Linear, gated by human fatigue | Parallel, accelerated by local agent swarms |
 | Memory Persistence | Ephemeral, lost in Slack and email | Durable, stored in git-backed local markdown |
 | Signal Fidelity | High noise, frequent positioning drift | 100% signal clear, verified by automated linters |
-| Capacity Control | Unbounded chaos, chronic burnout | Strict Ashby WIP caps (WIP <= 3) |
+| Capacity Control | Unbounded chaos, chronic burnout | Strict Ashby WIP caps (<kbd>WIP &le; 3</kbd>) |
 
 ---
 
 ## Sovereign Operating Doctrine
 
-1. **Plain English First:** No corporate jargon, no theoretical posturing, and zero AI buzzwords. Every statement represents verifiable reality.
-2. **Empirical Receipts Over Assertions:** Execution is not complete when a plan is proposed. Execution is complete when automated health checks pass with zero errors.
-3. **Deterministic Constraint:** We enforce strict WIP limits to guarantee maximum execution depth and 9-figure precision on every deliverable.
+> **SOVEREIGN DIRECTIVE 01: PLAIN ENGLISH FIRST**  
+> No corporate jargon, no theoretical posturing, and zero AI buzzwords. Every statement represents verifiable operational reality.
+
+> **SOVEREIGN DIRECTIVE 02: EMPIRICAL RECEIPTS OVER ASSERTIONS**  
+> Execution is not complete when a plan is proposed. Execution is complete when automated health checks (<kbd>./mothership-doctor</kbd>) pass with zero errors.
+
+> **SOVEREIGN DIRECTIVE 03: DETERMINISTIC CAPACITY LIMITS**  
+> We enforce strict capacity caps (<kbd>WIP &le; 3</kbd>) to guarantee maximum execution depth and 9-figure precision on every deliverable.
 
 ---
 
+<a id="direct-action-channels-and-source-repositories"></a>
 ## Direct Action Channels and Source Repositories
 
 To initiate an audit, inspect source code, or review public framework documentation:
@@ -151,3 +207,17 @@ To initiate an audit, inspect source code, or review public framework documentat
 * **GitMoney OS Organization:** [github.com/GitMoneyOS](https://github.com/GitMoneyOS)
 * **Public Framework Source:** [github.com/GitMoneyOS/gitmoney-public-framework](https://github.com/GitMoneyOS/gitmoney-public-framework)
 * **Personal Repository Archive:** [github.com/HitsuyoAkuWeb3](https://github.com/HitsuyoAkuWeb3)
+
+---
+
+<div align="center">
+
+```text
+================================================================================
+          HITSUYO AKU // IDENTITY FORENSICS LAB // GITMONEY OS 2026
+================================================================================
+```
+
+[Back to Top](#hitsuyo-aku)
+
+</div>
