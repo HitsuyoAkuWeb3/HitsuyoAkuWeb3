@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="#executive-indictment">Executive Indictment</a> &bull;
-  <a href="#the-3-tier-gitmoney-ai-office-architecture">3-Tier Loop</a> &bull;
+  <a href="#the-gitmoney-ai-office-architecture">GitMoney Architecture</a> &bull;
   <a href="#the-viable-system-model-vsm-cybernetic-stack">VSM Cybernetics</a> &bull;
   <a href="#commercial-engagement-lanes">Service Lanes</a> &bull;
   <a href="#direct-action-channels-and-source-repositories">Source Repos</a>
@@ -43,54 +43,60 @@ Most technology companies and venture-backed startups do not fail from lack of c
 
 When leadership functions as a manual routing switch for copy, code, decisions, and operational fire-fighting, the organization hits an inescapable complexity ceiling. Internal drag consumes margin, positioning dilutes, and execution degrades into noise.
 
-The Identity Forensics Lab solves this single point of failure. We audit organizational cybernetics, eliminate founder middleware, and install local-first, version-controlled business infrastructure powered by Stafford Beer's Viable System Model.
+The Identity Forensics Lab solves this single point of failure. We audit organizational cybernetics, eliminate founder middleware, and install local-first, version-controlled business infrastructure powered by Stafford Beer's Viable System Model and the GitMoney OS framework.
 
 ---
 
-<a id="the-3-tier-gitmoney-ai-office-architecture"></a>
-## The 3-Tier GitMoney AI Office Architecture
+<a id="the-gitmoney-ai-office-architecture"></a>
+## The GitMoney AI Office Architecture
 
-The GitMoney AI Office decouples business growth from human fatigue using a 3-tier sovereign execution loop:
+GitMoney OS is governed business infrastructure engineered to turn AI-assisted work into owned, reviewable, and reusable business evidence. It decouples business growth from human fatigue using a 3-tier sovereign execution loop:
 
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
 <h4>TIER 1: PRIVATE VAULT</h4>
-<p><b>Local PKM Second Brain</b></p>
-<p>Stored in Obsidian.md. Holds raw capture, private client intel, strategy, and personal memory completely offline.</p>
+<p><b>PKM Second Brain (Obsidian.md)</b></p>
+<p>Local-first markdown private memory. Stores raw capture, private client intelligence, strategy, and personal knowledge offline on disk.</p>
 </td>
 <td width="33%" valign="top">
 <h4>TIER 2: AGENT WORKBENCH</h4>
-<p><b>Autonomous Agent Harnesses</b></p>
-<p>Harnesses (Claude, Codex, Antigravity, Hermes) executing audits, running simulations, and generating code.</p>
+<p><b>Agentic Swarm Harnesses</b></p>
+<p>Autonomous agent harnesses (Claude, Codex, Antigravity, Hermes) executing audits, running simulations, and compiling assets.</p>
 </td>
 <td width="33%" valign="top">
 <h4>TIER 3: OFFICIAL RECORD</h4>
 <p><b>Git Team Collaboration</b></p>
-<p>Published to remote GitHub repos for team execution, client delivery, and open-source contribution.</p>
+<p>Published to remote GitHub repos (GitMoneyOS) for team execution, client delivery, and open-source framework contribution.</p>
 </td>
 </tr>
 </table>
 
-### Dynamic Handoff Flow
+### Sovereign Handoff Loop
+
+```text
+The Private Vault (Obsidian)  ->  Agentic Workbench (Harnesses)  ->  GitHub (Official Record)
+Raw Memory & Intel               Local Control & Auditing          Governed Production Proof
+```
 
 ```mermaid
 sequenceDiagram
     autonumber
     participant V as Private Vault (Obsidian.md)
-    participant W as Agentic Workbench (Harnesses)
-    participant G as Official Record (GitHub)
+    participant W as Agentic Workbench (Claude/Codex/Antigravity/Hermes)
+    participant G as Official Record (GitHub.com)
 
     V->>W: Ingest Raw Notes & Strategic Intent
-    W->>W: Run Adversarial Audit & VSM Linters
-    W->>G: Commit Receipt-Gated Deliverable (Push)
+    W->>W: Run Adversarial Audits & VSM Health Gates
+    W->>G: Commit Receipt-Gated Deliverables & Production Code
 ```
 
-### Execution Loop Mechanics
+### Core System Thesis
 
-1. **Private Capture (Obsidian.md):** Raw notes, business intelligence, and initial concepts are captured locally in plain text markdown. Data stays 100% local, protected from premature public exposure.
-2. **Agentic Processing (Workbench):** Custom agent harnesses (Claude, Codex, Antigravity, Hermes) connect to local skills and tools to deconstruct problems, run adversarial audits, and generate code.
-3. **Official Publication (GitHub):** Verified, receipt-gated outputs graduate to public GitHub repositories for team execution, client delivery, and open-source contribution.
+1. **Governed Infrastructure:** GitMoney is not generic AI prompts or simple workflows. It is governed business infrastructure built to convert raw AI outputs into permanent, version-controlled business assets.
+2. **Strict Layer Separation:** Private memory (Obsidian), local agent workbenches (Claude, Codex, Antigravity, Hermes), and official business records (GitHub) remain distinct layers. Data graduates to GitHub only after evidence verification.
+3. **Receipt-Gated Assets:** An AI output is not an asset until it possesses an owner, an approval path, verifiable evidence, a clear reuse path, and a recorded lifecycle.
+4. **Empirical Verification:** Dated receipts, automated linter tests, and acceptance reports outrank theoretical plans when execution choices conflict.
 
 ---
 
