@@ -1,16 +1,24 @@
+<p align="center">
+  <a href="https://architect.hitsuyoaku.io">
+    <img src="assets/hitsuyo-aku-profile-banner.svg" alt="Hitsuyo Aku, Identity Forensics Lab. Founder-control diagnostics for owned, reviewable, handoff-ready business systems." width="100%">
+  </a>
+</p>
+
 # Hitsuyo Aku
 
 Founder, Identity Forensics Lab.
 
 I help founder-led teams turn scattered AI-assisted work into an owned, reviewable business system, so important decisions and delivery knowledge do not live only in the founder's head.
 
+> A useful system should survive beyond the founder's memory.
+
 ## Start Here
 
 **[Run the Founder-Control Diagnostic](https://architect.hitsuyoaku.io)**
 
-This is the primary proof and the one next action. It helps you identify where business knowledge, approvals, and AI-assisted work are creating operating drag.
+This is the primary proof and the one next action. It identifies where business knowledge, approvals, and AI-assisted work are creating operating drag.
 
-## Inspect The Work
+## Inspect the Work
 
 | Door | What you can inspect |
 | --- | --- |
@@ -18,7 +26,7 @@ This is the primary proof and the one next action. It helps you identify where b
 | [GitMoneyOS Public Framework](https://github.com/GitMoneyOS/gitmoney-public-framework) | The plain-English method for turning AI-assisted work into a governed GitHub record. |
 | [Bounded QMM Proof](https://github.com/GitMoneyOS/gitmoney-public-framework/blob/main/docs/proof-package/gitbuilt-qmm-proof-packet.md) | A public proof card that states both what can be checked and what it does not establish. |
 
-## How I Work
+## Working Practice
 
 1. Diagnose the founder-control gap.
 2. Build only the control surface the evidence supports.
