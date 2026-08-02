@@ -6,6 +6,13 @@
 **Operating Kernel for the GitMoney AI Office Ecosystem**
 
 <p align="center">
+  <strong>START HERE</strong><br>
+  <a href="https://architect.hitsuyoaku.io">Run the diagnosis</a> &bull;
+  <a href="https://github.com/GitMoneyOS/gitmoney-public-framework">See the GitMoney framework</a> &bull;
+  <a href="https://github.com/GitMoneyOS/gitmoney-public-framework/blob/main/docs/proof-package/gitbuilt-qmm-proof-packet.md">Inspect a bounded proof packet</a>
+</p>
+
+<p align="center">
   <a href="#executive-indictment">Executive Indictment</a> &bull;
   <a href="#identity-forensics-lab-commercial-overview">Identity Forensics Lab</a> &bull;
   <a href="#the-gitmoney-ai-office-architecture">GitMoney Architecture</a> &bull;
@@ -16,7 +23,7 @@
 
 <p align="center">
   <a href="https://architect.hitsuyoaku.io"><img src="https://img.shields.io/badge/Request-Forensic_Audit-151515?style=for-the-badge&labelColor=000000" alt="Request Forensic Audit"></a>
-  <a href="https://github.com/GitMoneyOS"><img src="https://img.shields.io/badge/Organization-GitMoneyOS-151515?style=for-the-badge&labelColor=000000" alt="GitMoneyOS Org"></a>
+  <a href="https://github.com/GitMoneyOS/gitmoney-public-framework/blob/main/docs/proof-package/gitbuilt-qmm-proof-packet.md"><img src="https://img.shields.io/badge/Proof-QMM_Case_File-151515?style=for-the-badge&labelColor=000000" alt="Inspect bounded QMM proof packet"></a>
   <a href="https://github.com/GitMoneyOS/gitmoney-public-framework"><img src="https://img.shields.io/badge/Framework-Public_Source-151515?style=for-the-badge&labelColor=000000" alt="Public Framework Source"></a>
   <img src="https://img.shields.io/badge/Status-100%25_Signal_Clear-151515?style=for-the-badge&labelColor=000000" alt="Signal Clear">
   <img src="https://img.shields.io/badge/Capacity-WIP_%E2%89%A4_3-151515?style=for-the-badge&labelColor=000000" alt="WIP Limit">
